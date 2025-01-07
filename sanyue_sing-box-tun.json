@@ -104,7 +104,7 @@
      {"clash_mode": "direct", "outbound": "🎯 全球直连"},
      {"clash_mode": "global", "outbound": "GLOBAL"},
      {
-      "domain_suffix": [
+      "domain_keyword": [
                  "kp.m - team.cc",
                  "lemonhd.club",
                  "1ptba.com",

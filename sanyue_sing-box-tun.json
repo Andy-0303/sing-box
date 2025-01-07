@@ -104,9 +104,9 @@
      {"clash_mode": "direct", "outbound": "🎯 全球直连"},
      {"clash_mode": "global", "outbound": "GLOBAL"},
      {
-      "domain_keyword": [
-                 "kp.m-team",
-                 "lemonhd.club",
+      "domain_suffix": [
+                 "kp.m-team.cc",
+                 "kp.m-team.io",
                  "1ptba.com",
                  "hdarea.club",
                  "hdatmos.club",
@@ -114,6 +114,20 @@
                  "rousi.zip",
                  "haidan.video",
                  "time.windows.com"
+             ],
+           "outbound":"🎯 全球直连"
+             },
+     {
+      "domain_keyword": [
+                 "kp.m-team",
+                 "lemonhd",
+                 "1ptba",
+                 "hdarea",
+                 "hdatmos",
+                 "audiences",
+                 "rousi",
+                 "haidan",
+                 "weixin"
              ],
            "outbound":"🎯 全球直连"
              },
